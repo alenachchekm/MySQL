@@ -1,0 +1,1 @@
+delete from предметы where id=5
